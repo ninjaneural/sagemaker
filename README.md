@@ -76,7 +76,7 @@ https://studiolab.sagemaker.aws/import/github/ninjaneural/sagemaker/blob/main/no
 
 > **v1.6.0**  
 
-https://studiolab.sagemaker.aws/import/github/ninjaneural/sagemaker/blob/main/notebook/webui-xl.pynb
+https://studiolab.sagemaker.aws/import/github/ninjaneural/sagemaker/blob/main/notebook/webui-xl.ipynb
 
 <details>
   <summary>참고모델 보기</summary>
@@ -111,5 +111,5 @@ https://studiolab.sagemaker.aws/import/github/ninjaneural/sagemaker/blob/main/no
 
 # ComfyUI
 
-https://studiolab.sagemaker.aws/import/github/ninjaneural/sagemaker/blob/main/notebook/comfyui.pynb
+https://studiolab.sagemaker.aws/import/github/ninjaneural/sagemaker/blob/main/notebook/comfyui.ipynb
 
